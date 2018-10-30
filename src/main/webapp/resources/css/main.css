@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+body {
+	font-family: Arial;
+}
+
+.tab {
+	border: thin solid black;
+	align-content: center;
+	background: #ffff99;
+}
+
+.tab h1 {
+	text-align: center;
+}	
+		
